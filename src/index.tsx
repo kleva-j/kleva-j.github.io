@@ -1,9 +1,9 @@
-import './index.css';
+import '@/styles/index.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import App from '@/App';
+import App from '@/components/App';
 
 // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
 ReactDOM.createRoot(document.getElementById('root')!).render(
