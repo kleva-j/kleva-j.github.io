@@ -53,7 +53,7 @@ function App() {
               <img src={email} alt="at sign icon" />
             </a>
             <a
-              href="https://www.gitshowcase.com/kleva-j"
+              href="https://michaelobasi.dev/portfolio_v3/"
               title="Link to projects"
               target="_blank"
               rel="noreferrer noopener"
